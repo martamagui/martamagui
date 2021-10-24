@@ -3,7 +3,6 @@
 
 ### Talking about Personal Stuffs: 
 <br/>
-- 👩‍💻 My name is Marta. I'm a Jr. developer from Spain. <br/> 
 - 📚 I'm currently undertaking second year of Multi-platform Applications Development (CertHE). <br/>
 - 👨🏽‍💻 I’m working at <a href="https://www.linkedin.com/school/u-tad/">U-tad</a> as After-school Support Teacher. <br/>
 - 🌱 Right now I’m  learning Kotlin, Swift and Node.js <br/> 
