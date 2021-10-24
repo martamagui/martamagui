@@ -1,11 +1,12 @@
-# Hi! My name is Marta.<br/> I'm a Jr. developer 👩‍💻 from Spain.
-
-<!-- ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">This description is still on progress. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"><br/> -->
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="50%" alt="Name" src="https://github.com/martamagui/martamagui/blob/main/MartaMagui.gif?raw=true" />
 <!-- Talking about you -->
 <img width="40%" align="right"  alt="Cat" src="https://c.tenor.com/Tu7XoDwwzgwAAAAC/test-cat-typing.gif" /> </br> 
 ### Talking about Personal Stuffs: 
 <br/>
+- 👩‍💻 My name is Marta. I'm a Jr. developer from Spain. <br/> 
 - 📚 I'm currently undertaking second year of Multi-platform Applications Development (CertHE). <br/>
 - 👨🏽‍💻 I’m working at <a href="https://www.linkedin.com/school/u-tad/">U-tad</a> as After-school Support Teacher. <br/>
 - 🌱 Right now I’m  learning Kotlin, Swift and Node.js <br/> 
@@ -17,7 +18,7 @@
 
 ### 🔭Languages and Tools: 
 <p align="right">
-  <img width="35%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martamagui" />
+  <img width="35%" align="right" alt="Marta's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martamagui" />
 </p>
 <br/>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
