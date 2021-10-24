@@ -1,9 +1,6 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="50%" alt="Name" src="https://github.com/martamagui/martamagui/blob/main/MartaMagui.gif?raw=true" />
+# Hi! My name is Marta.<br/> I'm a Jr. developer 👩‍💻 from Spain.
 <!-- Talking about you -->
-<img width="40%" align="right"  alt="Cat" src="https://c.tenor.com/Tu7XoDwwzgwAAAAC/test-cat-typing.gif" /> </br> 
+
 ### Talking about Personal Stuffs: 
 <br/>
 - 👩‍💻 My name is Marta. I'm a Jr. developer from Spain. <br/> 
@@ -12,9 +9,6 @@
 - 🌱 Right now I’m  learning Kotlin, Swift and Node.js <br/> 
 - 💬 Ask me about anything, I am happy to help <br/> 
 - ⚡️ Fun-Fact: In case you didn't notice it... I really like cats<br/> <br/>
-<br/><br/>
-
-
 
 ### 🔭Languages and Tools: 
 <p align="right">
