@@ -1,9 +1,9 @@
 <h1>Marta, Jr.developer. </h1>
 <br/>
 <!-- Talking about you -->
- <img width="55%" align="right" alt="Marta's github stats" src="https://c.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif" />
-
-### Talking about Personal Stuff: 
+ <img width="50%" align="right" alt="Marta's github stats" src="https://c.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif" />
+ 
+ ### Talking about Personal Stuff: 
 - 📚 I'm currently undertaking second year of Multi-platform Applications Development (CertHE). <br/>
 - 👨🏽‍💻 I’m working at <a href="https://www.linkedin.com/school/u-tad/">U-tad</a> as After-school Support Teacher. <br/>
 - 🌱 Right now I’m  learning Kotlin, Swift and Node.js <br/> 
