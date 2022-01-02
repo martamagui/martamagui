@@ -1,4 +1,4 @@
-<h1>Marta, Jr.developer. </h1>
+<h1>Marta, Jr. developer. </h1>
 <br/>
 <!-- Talking about you -->
  <img width="50%" align="right" alt="Marta's github stats" src="https://c.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif" />
