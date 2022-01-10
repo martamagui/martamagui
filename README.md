@@ -5,7 +5,6 @@
  
  ### Talking about Personal Stuff: 
 - 📚 I'm currently undertaking second year of Multi-platform Applications Development (CertHE). <br/>
-- 👨🏽‍💻 I’m working at <a href="https://www.linkedin.com/school/u-tad/">U-tad</a> as After-school Support Teacher. <br/>
 - 🌱 Right now I’m  learning Kotlin, Swift, Java and Node.js <br/> 
 - 💬 Ask me about anything, I am happy to help <br/> 
 - ⚡️ Fun-Fact: In case you didn't notice it... I really like cats<br/> <br/>
