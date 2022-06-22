@@ -1,11 +1,11 @@
-<h1>Marta, Jr. developer. </h1>
+<h1>Marta, FullStack developer. </h1>
 <br/>
 <!-- Talking about you -->
  <img width="50%" align="right" alt="Marta's github stats" src="https://c.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif" />
  
  ### Talking about Personal Stuff: 
-- 📚 I'm currently undertaking second year of Multi-platform Applications Development (CertHE). <br/>
-- 🌱 Right now I’m  learning Kotlin, SwiftUI, React, Angular and Node.js <br/> 
+- 📚 I'm a Multi-platform Applications Development(CertHE) graduate. <br/>
+- 🌱 Right now I’m learning Kotlin, SwiftUI, React, Angular and Node.js <br/> 
 - 💬 Ask me about anything, I am happy to help <br/> 
 - ⚡️ Fun-Fact: In case you didn't notice it... I really like cats<br/> <br/>
 
