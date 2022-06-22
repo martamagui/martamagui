@@ -28,7 +28,11 @@
 <br/>
 
 ###  💻 My Biggest Project fo far
-You can take a look to BookWorm on my repositories. The platform made for book-lovers.<br/>
+BookWorm, the platform made for books-lovers.📚 <br/>
+Are you ready to find new adventures? ⚔
+<br/><br/>
+You can take a look to BookWorm on my repositories.
+<br/>
 It's available for [Android](https://github.com/martamagui/bookworm-android) and [web](https://github.com/martamagui/bookworm-app-web).
 <table>
   <tbody>
