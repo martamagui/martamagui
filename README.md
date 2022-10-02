@@ -1,11 +1,11 @@
-<h1>Marta, FullStack developer. </h1>
+<h1>Marta, Mobile developer. </h1>
 <br/>
 <!-- Talking about you -->
  <img width="50%" align="right" alt="Marta's github stats" src="https://c.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif" />
  
  ### Talking about Personal Stuff: 
-- 📚 I'm a Multi-platform Applications Development(CertHE) graduate. <br/>
-- 🌱 Right now I’m learning Kotlin, SwiftUI, React, Angular and Node.js <br/> 
+- 📚 I'm a Mobile developer working at Sarurus/Digital-Fruit. I also enjoy web development. <br/>
+- 🌱 Right now I’m working to improve my Android, Java, Kotlin and Jetpack Compose skills.<br/> 
 - 💬 Ask me about anything, I am happy to help <br/> 
 - ⚡️ Fun-Fact: In case you didn't notice it... I really like cats<br/> <br/>
 
@@ -22,7 +22,6 @@
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;&nbsp;
 ![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;&nbsp;&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
  &nbsp;&nbsp;&nbsp;
 <br/>
 <br/>
