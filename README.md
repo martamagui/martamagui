@@ -5,7 +5,7 @@
  
  ### Talking about Personal Stuff: 
 - 📚 I'm a Native Android Developer working at Sarurus/Digital-Fruit. I also enjoy web development. <br/>
-- 🌱 Right now I’m working to improve my Jetpack Compose skills and learning more about differents arquitecture patterns.<br/> 
+- 🌱 Right now I’m working to improve my Jetpack Compose skills.<br/> 
 - 💬 Ask me about anything, I am happy to help <br/> 
 
 ### 🔭Languages and Tools: <br/><br/>
