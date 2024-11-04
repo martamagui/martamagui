@@ -4,7 +4,7 @@
  <img width="50%" align="right" alt="Marta's github stats" src="https://c.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif" />
  
  ### Talking about Personal Stuff: 
-- 📚 I'm a Native Android Developer working at Saurus/Rewire Holding/Digital-Fruit.<br/>
+- 📚 I'm a Native Android Developer working at Keapps in a Nestle's project.<br/>
 - 💬 Ask me about anything, I am happy to help <br/> 
 
 ### 🔭Languages and Tools: <br/><br/>
